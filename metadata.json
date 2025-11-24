@@ -1,0 +1,9 @@
+{
+  "name": "DriftSpots",
+  "description": "Карта, где каждый занос — это пост. Социальная сеть для дрифтеров с ИИ-анализом заездов.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
